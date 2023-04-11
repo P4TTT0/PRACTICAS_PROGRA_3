@@ -1,0 +1,9 @@
+<?php
+//MUESTRA LA INFO CONTENIDA EN _GET
+var_dump($_GET); //ARRAY SUPER GLOBAL
+echo "\n";
+
+//MUESTRA LA INFO CONTENIDA EN _POST
+var_dump($_POST); //ARRAY SUPER GLOBAL
+echo "\n";
+?>

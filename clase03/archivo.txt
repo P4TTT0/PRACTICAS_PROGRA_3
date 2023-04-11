@@ -1,0 +1,4 @@
+hola soy un archivo.txt
+un caracter es igual a un byte
+
+Entre al archivo con la funcion fwrite()
